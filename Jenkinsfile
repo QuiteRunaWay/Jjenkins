@@ -9,4 +9,4 @@ pipeline {
             steps { sh 'molecule test' }
                           }
             }
-        }
+    }
